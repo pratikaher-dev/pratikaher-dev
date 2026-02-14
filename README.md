@@ -6,7 +6,8 @@ I believe in consistent improvement, deep understanding, and building real proje
 - Python Programming  
 - Data Science Fundamentals  
 - Machine Learning Basics  
-- Git & GitHub Workflow  
+- Developing projects in react framework
+- Full stack development
 ---
 ## 🧠 Learning Philosophy
 - Master fundamentals before advanced topics  
@@ -17,8 +18,8 @@ I believe in consistent improvement, deep understanding, and building real proje
 ## 🛠 Skills (Growing)
 - Python  
 - Basic Statistics  
-- Git & GitHub  
-- Problem Solving  
+- Programming
+- Logic and Problem Solving  
 ---
 ## 🎯 Goals
 - Become highly skilled in AI / ML  
