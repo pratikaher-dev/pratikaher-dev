@@ -1,5 +1,4 @@
 # Hi, I'm Pratik 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikaher-dev&show_icons=true&theme=dark)
 I'm a focused learner building strong foundations in programming, data science, and machine learning.
 I believe in consistent improvement, deep understanding, and building real projects instead of just consuming tutorials.
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Learner;Building+Daily;Future+ML+Engineer)
